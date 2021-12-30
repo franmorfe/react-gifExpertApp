@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import GiftExpertApp from './GiftExpertApp';
+import GifExpertApp from './GifExpertApp';
 import './index.css';
 
 
 ReactDOM.render(
-  <GiftExpertApp />,
+  <GifExpertApp />,
   document.getElementById('root')
 );
